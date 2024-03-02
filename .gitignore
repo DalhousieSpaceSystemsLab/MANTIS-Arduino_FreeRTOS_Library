@@ -3,3 +3,6 @@
 
 # Ignore CLion IDE folder
 .idea
+/blink.bin
+/compile_flags.txt
+/blink.hex
